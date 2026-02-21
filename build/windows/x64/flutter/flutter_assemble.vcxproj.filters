@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kylew\.gemini\antigravity\app gen\pos app\pos_app\build\windows\x64\CMakeFiles\dc2b6420e20096c4538ff68be4197ef5\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kylew\.gemini\antigravity\app gen\pos app\pos_app\build\windows\x64\CMakeFiles\46b55f08ff7586e91678a24dbdcb6181\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kylew\.gemini\antigravity\app gen\pos app\pos_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kylew\.gemini\antigravity\app gen\pos app\pos_app\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ABF64590-5425-32B6-98CC-8E7EF1B92A43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
